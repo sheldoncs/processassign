@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/classes12.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/mysql-connector-java-3.0.15-ga-bin.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/javamail-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/jax-qname.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/jaxrpc-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/jaxrpc-impl.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/jaxrpc-spi.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/qname.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/reconf_uddi_client.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/soap.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/uddi4j.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/ProcessAdvisorAssignments/lib/ojdbc6.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
